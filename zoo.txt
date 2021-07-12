@@ -1,2 +1,4 @@
 q-q plot
-
+brushing-and-linking
+Squarified treemaps
+edge crossings
